@@ -1,5 +1,5 @@
-var classes = require('classes');
-var bind = require('event').bind;
+var classes = require('component-classes');
+var bind = require('component-event').bind;
 
 function hilo() {
   var cl = classes(document.body),
